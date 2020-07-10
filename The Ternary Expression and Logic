@@ -1,0 +1,12 @@
+likely_to_rain = true
+
+garment = likely_to_rain ? "galoshes" : "sun hat";
+
+
+
+top = 2
+bottom = 1
+problem_count = 99
+
+lucky_number = (top > bottom) ? (3 + 1) : (problem_count / 3)  #=> 4
+

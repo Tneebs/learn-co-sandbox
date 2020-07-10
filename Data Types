@@ -1,0 +1,14 @@
+Constant Expression w/ string expression
+
+3*(10-4)
+
+TED = "master"     
+
+
+Assignment expression
+
+my_hair_is = "blonde"
+
+MY_TEETH_ARE = "white"
+
+
